@@ -1,7 +1,6 @@
-# Projeto_Ciencia_de_Dados_PUCRS
-Projeto da disciplina Ciência de Dados e Inteligência Artificial do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile, da PUCRS.
+# Projeto da disciplina: Ciência de Dados e Inteligência Artificial - PUCRS
 
-# Fase 1 do projeto da disciplina: Ciência de Dados e Inteligência Artificial - PUCRS
+## Fase 1
 
 O objetivo deste trabalho é selecionar um conjunto de dados interessante, desenvolver um projeto inicial sobre ele com a ferramenta Orange Data Mining e identificar oportunidades em ciência de dados com ele. Para tanto, procurem algum conjunto de dados que vocês se sintam motivados a explorar. O conjunto selecionado deve ter pelo menos 1.000 linhas e pelo menos 10 colunas totalmente preenchidas (sem valores faltantes) e, principalmente, deve ter um atributo alvo, categórico ou numérico.
 
@@ -28,6 +27,21 @@ O objetivo deste trabalho é selecionar um conjunto de dados interessante, desen
 
 
 8. O que você deve entregar nesta fase:  Documento em PDF/DOCX (desenvolvido a partir do modelo de template disponibilizado)  com a documentação de todas as atividades feitas e o link para o conjunto de dados escolhido. No caso de ter sido feito um recorte/amostragem do conjunto original, documentar quais foram os passos feitos para produzir o recorte.
+
+## Fase 2
+
+- Desenvolvam um processo de ciência de dados, cobrindo:
+
+ - Exploração dos dados
+ - Escolha dos algoritmos de aprendizado para a modelagem (pelo menos 3 algoritmos)
+ - Preparação dos dados de acordo com as características dos algoritmos de aprendizado Escolhidos
+ - Execução dos experimentos de aprendizado e coleta das métricas
+
+- Relato dos experimentos e lições aprendidas.
+
+
+
+O que você deve entregar nesta fase: – Documento em PDF/DOCX (desenvolvido a partir do modelo de template disponibilizado) , mais notebook do projeto (ipynb), com a documentação de todas as atividades feitas, e mais o conjunto de dados usado como entrada para o projeto. Salve esses arquivos em uma pasta zipada (.ZIP) para postar na Plataforma.
 
 ### Dataset: Students Performance Dataset:
 
